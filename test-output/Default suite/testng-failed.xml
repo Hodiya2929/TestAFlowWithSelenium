@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" parallel="none">
+  <test name="Default test(failed)" parallel="none">
+    <classes>
+      <class name="com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest">
+        <methods>
+          <include name="closeTheBrowser"/>
+          <include name="setup"/>
+          <include name="clickOnNewIssueButton"/>
+          <include name="goToCreatePage"/>
+          <include name="clickOnIssuesTab"/>
+          <include name="createNewProject"/>
+          <include name="setAnNewIssue"/>
+        </methods>
+      </class> <!-- com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

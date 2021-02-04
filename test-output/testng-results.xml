@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18104" started-at="2021-01-22T05:59:36Z" finished-at="2021-01-22T05:59:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18104" started-at="2021-01-22T05:59:36Z" finished-at="2021-01-22T05:59:54Z">
+      <class name="com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest@2d2e5f00]" name="setup" is-config="true" duration-ms="3730" started-at="2021-01-22T07:59:36Z" finished-at="2021-01-22T07:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="goToGithubWebSite()[pri:0, instance:com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest@2d2e5f00]" name="goToGithubWebSite" duration-ms="3231" started-at="2021-01-22T07:59:40Z" finished-at="2021-01-22T07:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToGithubWebSite -->
+        <test-method status="PASS" signature="clickOnSignInButton()[pri:0, instance:com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest@2d2e5f00]" name="clickOnSignInButton" duration-ms="832" started-at="2021-01-22T07:59:43Z" finished-at="2021-01-22T07:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSignInButton -->
+        <test-method status="PASS" signature="loginToGithub()[pri:0, instance:com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest@2d2e5f00]" name="loginToGithub" duration-ms="1610" started-at="2021-01-22T07:59:44Z" finished-at="2021-01-22T07:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGithub -->
+        <test-method status="PASS" signature="goToCreatePage()[pri:0, instance:com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest@2d2e5f00]" name="goToCreatePage" duration-ms="660" started-at="2021-01-22T07:59:45Z" finished-at="2021-01-22T07:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToCreatePage -->
+        <test-method status="PASS" signature="createNewProject()[pri:0, instance:com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest@2d2e5f00]" name="createNewProject" duration-ms="3312" started-at="2021-01-22T07:59:46Z" finished-at="2021-01-22T07:59:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewProject -->
+        <test-method status="PASS" signature="clickOnIssuesTab()[pri:0, instance:com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest@2d2e5f00]" name="clickOnIssuesTab" duration-ms="327" started-at="2021-01-22T07:59:49Z" finished-at="2021-01-22T07:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnIssuesTab -->
+        <test-method status="PASS" signature="clickOnNewIssueButton()[pri:0, instance:com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest@2d2e5f00]" name="clickOnNewIssueButton" duration-ms="1220" started-at="2021-01-22T07:59:50Z" finished-at="2021-01-22T07:59:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnNewIssueButton -->
+        <test-method status="PASS" signature="setAnNewIssue()[pri:0, instance:com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest@2d2e5f00]" name="setAnNewIssue" duration-ms="1998" started-at="2021-01-22T07:59:51Z" finished-at="2021-01-22T07:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setAnNewIssue -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:0, instance:com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest@2d2e5f00]" name="closeTheBrowser" duration-ms="1151" started-at="2021-01-22T07:59:53Z" finished-at="2021-01-22T07:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- com.selenium_test.imanueleyal.quickstart.LoginAndCreateFirstRepoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
